@@ -11,7 +11,7 @@ A new software developer, fresh out of school, at the start of his journey, look
 *   ✉️  You can contact me at [davidbish2002@hotmail.com](mailto:davidbish2002@hotmail.com)
 *   🚀  I'm currently working on [upgrading my Portfolio](http://dbish6.github.io/Portfolio/)
 *   🧠  I'm learning more about React
-*   🤝  I'm open to collaborating on any of my new full-stack applictions
+*   🤝  I'm open to collaborate on any of my new full-stack applictions
 
 ### Skills
 
