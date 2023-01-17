@@ -9,7 +9,7 @@ A new software developer, fresh out of school, at the start of his journey, look
 *   🌍  I'm based in Bay Roberts, Newfoundland
 *   🖥️  See my portfolio at [dbish6.github.io/Portfolio/](http://dbish6.github.io/Portfolio/)
 *   ✉️  You can contact me at [davidbish2002@hotmail.com](mailto:davidbish2002@hotmail.com)
-*   🚀  I'm currently working on [upgrading my Portfolio](http://dbish6.github.io/Portfolio/)
+*   🚀  I'm currently working on [a Casino app](https://github.com/dBish6)
 *   🧠  I'm learning more about React
 *   🤝  I'm open to collaborate on any of my new full-stack applictions
 
