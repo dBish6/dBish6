@@ -7,7 +7,7 @@ Software Developer
 A new software developer, fresh out of school, at the start of his journey, looking to make it in the tech industry and a striving full-stack developer who also loves designing web applications.
 
 *   🌍  I'm based in Bay Roberts, Newfoundland
-*   🖥️  See my portfolio at [dbish6.github.io/Portfolio/](http://dbish6.github.io/Portfolio/)
+*   🖥️  See my portfolio at [www.davidbishop.info/#/](www.davidbishop.info/#/)
 *   ✉️  You can contact me at [davidbish2002@hotmail.com](mailto:davidbish2002@hotmail.com)
 *   🚀  I'm currently working on [a Casino app](https://github.com/dBish6)
 *   🧠  I'm learning more about React and learning Chakra UI
