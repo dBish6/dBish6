@@ -10,7 +10,7 @@ A new software developer, fresh out of school, at the start of his journey, look
 *   🖥️  See my portfolio at [https://github.com/dBish6/Portfolio](https://github.com/dBish6/Portfolio)
 *   ✉️  You can contact me at [davidbish2002@hotmail.com](mailto:davidbish2002@hotmail.com)
 *   🚀  I'm currently working on [a Casino app](https://github.com/dBish6/Quest_Casino_Full-Stack_App)
-*   🧠  I'm learning currently Firebase, TypeScript and more about React
+*   🧠  I'm learning Firebase, TypeScript and more about React
 *   🤝  I'm open to collaborate on any of my new full-stack applictions; [Quest Casino](https://github.com/dBish6/Quest_Casino_Full-Stack_App)
 
 ### Skills
