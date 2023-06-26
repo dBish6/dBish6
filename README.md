@@ -9,19 +9,23 @@ A new software developer, fresh out of school, at the start of his journey, look
 *   🌍  I'm based in Bay Roberts, Newfoundland
 *   🖥️  See my portfolio at [https://github.com/dBish6/Portfolio](https://github.com/dBish6/Portfolio)
 *   ✉️  You can contact me at [davidbish2002@hotmail.com](mailto:davidbish2002@hotmail.com)
-*   🚀  I'm currently working on [a Casino app](https://github.com/dBish6/Quest_Casino_Full-Stack_App)
-*   🧠  I'm learning Firebase, TypeScript and more about React
-*   🤝  I'm open to collaborate on any of my new full-stack applictions; [Quest Casino](https://github.com/dBish6/Quest_Casino_Full-Stack_App)
+*   🚀  I'm currently working on revising and redesigning [Quest Casino](https://github.com/dBish6/Quest_Casino_Full-Stack_App) and my [Portfolio](https://github.com/dBish6/Portfolio)
+*   🧠  I'm learning user-centred design, TypeScript and more about React
+*   🤝  I'm open to collaborate on any of my new full-stack applications and upcoming applications
 
 ### Skills
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
+<a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chakra-colored.svg" width="36" height="36" alt="Chakra UI" /></a>
+<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a>
+<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
@@ -45,9 +49,13 @@ A new software developer, fresh out of school, at the start of his journey, look
 <div width="100%" align="center">
 <a href="https://github.com/dBish6/Full-Stack_SpringAPI_Sprint2_Final" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dBish6&repo=Full-Stack_SpringAPI_Sprint2_Final&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a>
 <a href="https://github.com/dBish6/class-work" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dBish6&repo=Portfolio&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a>
-</div><br /><br /><br /><br /><br /><br /><br />
-
-<br />
+</div><br /><br /><br /><br /><br /><br /><br /><br />
 
 <div width="100%" align="center">
-<a href="https://github.com/dBish6/class-work" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dBish6&repo=class-work&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/dBish6/Quest_Casino_Full-Stack_App" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dBish6&repo=Quest_Casino_Full-Stack_App&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<a href="https://github.com/dBish6/class-work" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dBish6&repo=class-work&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a>
+<a href="https://github.com/dBish6/Quest_Casino_Full-Stack_App" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dBish6&repo=Quest_Casino_Full-Stack_App&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a>
+</div><br /><br /><br /><br /><br /><br /><br /><br />
+
+<div width="100%" align="center">
+<a href="https://github.com/dBish6/Scroll_Animations_Examples" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dBish6&repo=Scroll_Animations_Examples&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a>
+</div>
