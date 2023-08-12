@@ -48,7 +48,7 @@ A new software developer, fresh out of school, at the start of his journey, look
 
 <div width="100%" align="center">
 <a href="https://github.com/dBish6/Full-Stack_SpringAPI_Sprint2_Final" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dBish6&repo=Full-Stack_SpringAPI_Sprint2_Final&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a>
-<a href="https://github.com/dBish6/class-work" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dBish6&repo=Portfolio&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a>
+<a href="https://github.com/dBish6/Portfolio" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dBish6&repo=Portfolio&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a>
 </div><br /><br /><br /><br /><br /><br /><br />
 
 <br />
