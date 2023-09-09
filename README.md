@@ -47,19 +47,21 @@ A new software developer, fresh out of school, at the start of his journey, look
 ### Top Repository Picks
 
 <div width="100%" align="center">
-<a href="https://github.com/dBish6/Full-Stack_SpringAPI_Sprint2_Final" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dBish6&repo=Full-Stack_SpringAPI_Sprint2_Final&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a>
-<a href="https://github.com/dBish6/Portfolio" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dBish6&repo=Portfolio&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a>
+<a href="https://github.com/dBish6/Portfolio" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dBish6&repo=Portfolio&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a>
+<a href="https://github.com/dBish6/Ideal_User_Authentication_Demos" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dBish6&repo=Ideal_User_Authentication_Demos&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a>
 </div><br /><br /><br /><br /><br /><br /><br />
 
 <br />
 
+
 <div width="100%" align="center">
-<a href="https://github.com/dBish6/class-work" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dBish6&repo=class-work&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a>
+<a href="https://github.com/dBish6/Scroll_Animations_Examples" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dBish6&repo=Scroll_Animations_Examples&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a>
 <a href="https://github.com/dBish6/Quest_Casino_Full-Stack_App" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dBish6&repo=Quest_Casino_Full-Stack_App&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a>
 </div><br /><br /><br /><br /><br /><br /><br />
 
 <br />
 
 <div width="100%" align="center">
-<a href="https://github.com/dBish6/Scroll_Animations_Examples" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dBish6&repo=Scroll_Animations_Examples&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a>
+<a href="https://github.com/dBish6/Full-Stack_SpringAPI_Sprint2_Final" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dBish6&repo=Full-Stack_SpringAPI_Sprint2_Final&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a>
+<a href="https://github.com/dBish6/class-work" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dBish6&repo=class-work&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a>
 </div>
