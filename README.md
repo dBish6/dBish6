@@ -4,7 +4,7 @@ Hi 👋 My name is David Bishop
 Software Developer
 ------------------
 
-A new software developer, fresh out of school, at the start of his journey, looking to make it in the tech industry and a striving full-stack developer who also loves designing web applications.
+An aspiring software developer at the beginning of my journey into the tech industry, I bring a unique blend of skills. I consider myself a unique developer, with a skillset not only in full-stack development but also in user-centric design. A passionate, chill, humble, genuine guy, and an approachable team member who brings a unique perspective to projects.
 
 *   🌍  I'm based in Bay Roberts, Newfoundland
 *   🖥️  See my portfolio at [https://github.com/dBish6/Portfolio](https://github.com/dBish6/Portfolio)
