@@ -4,12 +4,12 @@ Hi 👋 My name is David Bishop
 Software Developer
 ------------------
 
-An aspiring software developer at the beginning of my journey into the tech industry, I bring a unique blend of skills. I consider myself a unique developer, with a skillset not only in full-stack development but also in user-centric design. A passionate, chill, humble, genuine guy, and an approachable team member who brings a unique perspective to projects.
+As an aspiring software developer at the beginning of my journey in the tech industry, I bring a unique blend of skills, with a skillset not only in full-stack development but also in user-centric design. A passionate, chill, humble, genuine guy, and an approachable team member who brings a unique perspective to projects.
 
 *   🌍  I'm based in Bay Roberts, Newfoundland
 *   🖥️  See my portfolio at [https://github.com/dBish6/Portfolio](https://github.com/dBish6/Portfolio)
 *   ✉️  You can contact me at [davidbish2002@hotmail.com](mailto:davidbish2002@hotmail.com)
-*   🚀  I'm currently working on revising and redesigning [Quest Casino](https://github.com/dBish6/Quest_Casino_Full-Stack_App) and my [Portfolio](https://github.com/dBish6/Portfolio)
+*   🚀  I'm currently working on [$4YT](https://github.com/buildingu/s4yt_fe_2023), version 3 [Portfolio](https://github.com/dBish6/Portfolio), and designing Thrive Skate Co.
 *   🧠  I'm learning user-centred design, TypeScript and more about React
 *   🤝  I'm open to collaborate on any of my new full-stack applications and upcoming applications
 
