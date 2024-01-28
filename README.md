@@ -1,8 +1,8 @@
 Hi 👋 My name is David Bishop
 =============================
 
-Software Developer
-------------------
+Full-Stack UX Designer/Developer
+--------------------------------
 
 As an aspiring software developer at the beginning of my journey in the tech industry, I bring a unique blend of skills, with a skillset not only in full-stack development but also in user-centric design. A passionate, chill, humble, genuine guy, and an approachable team member who brings a unique perspective to projects.
 
