@@ -10,8 +10,8 @@ As an aspiring software developer at the beginning of my journey in the tech ind
 *   🖥️  See my portfolio at [https://github.com/dBish6/Portfolio](https://github.com/dBish6/Portfolio)
 *   ✉️  You can contact me at [davidbish2002@hotmail.com](mailto:davidbish2002@hotmail.com)
 *   🚀  I'm currently working on [$4YT](https://github.com/buildingu/s4yt_fe_2023), version 3 of my [Portfolio](https://github.com/dBish6/Portfolio), and designing Thrive Skate Co.
-*   🧠  I'm learning user-centred design, TypeScript and more about React
-*   🤝  I'm open to collaborate on any of my new full-stack applications and upcoming applications
+*   🧠  I'm learning user-centred design, more about TypeScript and native mobile development.
+*   🤝  I'm open to collaborate on any of my new applications and upcoming applications
 
 ### Skills
 
