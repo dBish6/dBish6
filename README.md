@@ -44,7 +44,7 @@ As an aspiring software developer at the beginning of my journey in the tech ind
 <a href="https://www.linkedin.com/in/david-bishop-34a76b237/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 </p>
 
-### Resent Repositories
+## Resent Repositories
 
 <div width="100%" align="center">
 <a href="https://github.com/dBish6/Node_Chat_App_Demos" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dBish6&repo=Node_Chat_App_Demos&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a>
