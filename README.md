@@ -70,4 +70,18 @@ As an aspiring software developer at the beginning of my journey in the tech ind
 
 <div width="100%" align="center">
 <a href="https://github.com/dBish6/Quest_Casino_Full-Stack_App" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dBish6&repo=Quest_Casino_Full-Stack_App&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a>
+</div><br /><br /><br /><br /><br /><br /><br />
+
+## Package/Dependencies
+
+<div width="100%" align="center">
+<a href="https://github.com/dBish6/react-user-input-detection" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dBish6&repo=react-user-input-detection&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a>
+<a href="https://github.com/dBish6/lodash-debounce-tiny" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dBish6&repo=lodash-debounce-tiny&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a>
+</div><br /><br /><br /><br /><br /><br /><br />
+
+<br />
+
+<div width="100%" align="center">
+<a href="https://github.com/dBish6/async-delay-callback" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dBish6&repo=async-delay-callback&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a>
+<a href="https://github.com/dBish6/detect-if-mobile" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dBish6&repo=detect-if-mobile&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a>
 </div>
