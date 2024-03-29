@@ -72,7 +72,7 @@ As an aspiring software developer at the beginning of my journey in the tech ind
 <a href="https://github.com/dBish6/Quest_Casino_Full-Stack_App" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dBish6&repo=Quest_Casino_Full-Stack_App&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a>
 </div><br /><br /><br /><br /><br /><br /><br />
 
-## Package/Dependencies
+## Packages/Dependencies
 
 <div width="100%" align="center">
 <a href="https://github.com/dBish6/react-user-input-detection" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dBish6&repo=react-user-input-detection&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a>
