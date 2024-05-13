@@ -9,7 +9,7 @@ As an aspiring software developer at the beginning of my journey in the tech ind
 *   🌍  I'm based in Bay Roberts, Newfoundland
 *   🖥️  See my portfolio at [https://github.com/dBish6/Portfolio](https://github.com/dBish6/Portfolio)
 *   ✉️  You can contact me at [davidbish2002@hotmail.com](mailto:davidbish2002@hotmail.com)
-*   🚀  I'm currently working on designing Thrive Skate Co, Quest Casino overhaul - version 2, and a nextjs e-commerce demo.
+*   🚀  I'm currently working on designing Thrive Skate Co, and my Quest Casino overhaul.
 *   🧠  I'm learning user-centred design, more about TypeScript and native mobile development.
 *   🤝  I'm open to collaborate on any of my new applications and upcoming applications
 
