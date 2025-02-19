@@ -6,12 +6,12 @@ Full-Stack UX Designer/Developer
 
 As an aspiring software developer at the beginning of my journey in the tech industry, I bring a unique blend of skills, with a skillset not only in full-stack development but also in user-centric design. A passionate, chill, humble, genuine guy, and an approachable team member who brings a unique perspective to projects.
 
-*   🌍  I'm based in Bay Roberts, Newfoundland
-*   🖥️  See my portfolio at [https://github.com/dBish6/Portfolio](https://github.com/dBish6/Portfolio)
-*   ✉️  You can contact me at [davidbish2002@hotmail.com](mailto:davidbish2002@hotmail.com)
-*   🚀  I'm currently working on designing Thrive Skate Co, and my Quest Casino overhaul.
+*   🌍  I'm based in Bay Roberts, Newfoundland.
+*   🖥️  See my portfolio at [https://github.com/dBish6/Portfolio](https://github.com/dBish6/Portfolio).
+*   ✉️  You can contact me at [davidbish2002@hotmail.com](mailto:davidbish2002@hotmail.com).
+*   🚀  I'm currently working on my Quest Casino overhaul.
 *   🧠  I'm learning user-centred design, more about TypeScript and native mobile development.
-*   🤝  I'm open to collaborate on any of my new applications and upcoming applications
+*   🤝  I'm open to collaborate on any of my new applications and upcoming applications.
 
 ### Skills
 
