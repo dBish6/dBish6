@@ -9,7 +9,7 @@ As an aspiring software developer at the beginning of my journey in the tech ind
 *   🌍  I'm based in Bay Roberts, Newfoundland.
 *   🖥️  See my portfolio at [https://github.com/dBish6/Portfolio](https://github.com/dBish6/Portfolio).
 *   ✉️  You can contact me at [davidbish2002@hotmail.com](mailto:davidbish2002@hotmail.com). <!---*   🚀  I'm currently working on my Quest Casino overhaul.-->
-*   🧠  I'm learning how to process payments, and the Go programming language.
+*   🧠  I'm learning more about processing payments, and the Go programming language.
 *   🤝  I'm open to collaborate on any of my new applications and upcoming applications.
 
 ### Skills
