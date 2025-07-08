@@ -8,9 +8,8 @@ As an aspiring software developer at the beginning of my journey in the tech ind
 
 *   🌍  I'm based in Bay Roberts, Newfoundland.
 *   🖥️  See my portfolio at [https://github.com/dBish6/Portfolio](https://github.com/dBish6/Portfolio).
-*   ✉️  You can contact me at [davidbish2002@hotmail.com](mailto:davidbish2002@hotmail.com).
-*   🚀  I'm currently working on my Quest Casino overhaul.
-*   🧠  I'm learning user-centred design, more about TypeScript and native mobile development.
+*   ✉️  You can contact me at [davidbish2002@hotmail.com](mailto:davidbish2002@hotmail.com). <!---*   🚀  I'm currently working on my Quest Casino overhaul.-->
+*   🧠  I'm learning how to process payments, and the Go programming language.
 *   🤝  I'm open to collaborate on any of my new applications and upcoming applications.
 
 ### Skills
@@ -50,9 +49,9 @@ As an aspiring software developer at the beginning of my journey in the tech ind
 <a href="https://www.linkedin.com/in/david-bishop-34a76b237/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 </p>
 
-## Resent Repositories
+<!---## Resent Repositories-->
 
-<div width="100%" align="center">
+<!---<div width="100%" align="center">
 <a href="https://github.com/dBish6/Algorithms_Data_Structures_Examples" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dBish6&repo=Algorithms_Data_Structures_Examples&title_color=6366f1&text_color=f4f4f4&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a>
 <a href="https://github.com/dBish6/nextjs_ecommerce_demo" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dBish6&repo=nextjs_ecommerce_demo&title_color=6366f1&text_color=f4f4f4&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a>
 </div><br /><br /><br /><br /><br /><br /><br />
@@ -92,3 +91,4 @@ As an aspiring software developer at the beginning of my journey in the tech ind
 <a href="https://github.com/dBish6/async-delay-callback" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dBish6&repo=async-delay-callback&title_color=6366f1&text_color=f4f4f4&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a>
 <a href="https://github.com/dBish6/detect-if-mobile" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dBish6&repo=detect-if-mobile&title_color=6366f1&text_color=f4f4f4&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a>
 </div>
+-->
